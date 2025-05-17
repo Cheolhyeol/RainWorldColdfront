@@ -1,0 +1,4 @@
+Template: NONE
+DangerType: None
+Palette: 23
+Effects: ZeroG-1-20-20, SuperStructureProjector-1-277-19, SunBlock-1-18-74, SSMusic-0.4021739-276-74, SSSwarmers-0.1086956-532-19, ProjectedScanLines-1-530-75, 

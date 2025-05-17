@@ -1,0 +1,10 @@
+﻿{
+	"id": "cheol.thevessel",
+	"name": "The Vessel",
+	"version": "0.1.0",
+	"authors": "Cheolhyeol",
+	"description": "Descrição do mod",
+    "requirements": [ "regionkit", "slime-cubed.slugbase" ],
+    "requirements_names": [ "RegionKit", "SlugBase" ],
+	"tags": [ "Regions", "Campaigns" ]
+}
