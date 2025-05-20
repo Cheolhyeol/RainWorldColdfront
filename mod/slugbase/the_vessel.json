@@ -4,12 +4,9 @@
 	"description": "Alone and confused, emerge from the settling dust. On your journey for rest, discover your role in the tragedies at hand.",
 	"features": {
 		"color": "9cf0a4",
-		"thevessel/super_jump": 0.5,
-		"thevessel/explode_on_death": true,
 		
 		"select_menu_scene": "Slugcat_Vessel",
 		"select_menu_scene_ascended": "Ghost_Vessel",
-		"thevessel/mean_lizards": 0.8,
 		"start_room": "SWST_ROOF_02"
 	}
 }
