@@ -1,2 +1,3 @@
-- [PT-BR - FrenteFria](./About%20Mod//FrenteFria.md)
-- [EN-US - ColdFront](./About%20Mod/ColdFront.md)
+Mod summary in the following languages:
+- [PT-BR - Frentefria](./About%20Mod/Summary/Frentefria.md)
+- [EN-US - ColdFront](./About%20Mod/Summary/Coldfront.md)
