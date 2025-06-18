@@ -1,0 +1,3 @@
+Subregion: The Synthwork
+Subregion: Modular Habitations
+Subregion: Disposals

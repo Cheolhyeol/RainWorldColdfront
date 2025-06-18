@@ -1,12 +1,11 @@
 {
 	"id": "thevessel",
 	"name": "The Vessel",
-	"description": "Alone and confused, emerge from the settling dust. On your journey for rest, discover your role in the tragedies at hand.",
+	"description": "Alone and confused, emerge from the settling dust. On your journey<LINE>for rest, discover your role in the tragedies at hand.",
 	"features": {
 		"color": "9cf0a4",
-		
-		"select_menu_scene": "Slugcat_Vessel",
-		"select_menu_scene_ascended": "Ghost_Vessel",
-		"start_room": "SWST_ROOF_02"
+		"start_room": "CML_VESSELSPAWN",
+
+		"select_menu_scene": "Slugcat_Vessel"
 	}
 }

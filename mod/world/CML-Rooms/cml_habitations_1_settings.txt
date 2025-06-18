@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: Blizzard
+WaveSpeed: 0.5740118
+WaveLength: 0.9629941
+WaveAmplitude: 2.162784E-06
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0

@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: None
+Palette: 4
+EffectColorA: 0
+EffectColorB: 6
+Effects: DayNight-1-20-20, 
+PlacedObjects: HeatArea><374.1874><461.5698><261~115, NonZapCoilHeatingCoil><410.1275><515.6581><177~13~0~496~170, HeatArea><371.6991><169.0185><247~109, NonZapCoilHeatingCoil><410.6912><211.9414><173~28~0~493.9999~426, LightBeam><401.858><318.8591><10~107~90~106~161~-39~502.0001~174~0.5086962~0~0~1~None~0~0, ColouredLightSource><577.9677><435.9474><292.0001~-149~FF0000~-183^-206~1~False~0~0~0.5~After~1~100, 

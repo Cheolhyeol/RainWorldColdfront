@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.5196726
+WaveLength: 0.9901637
+WaveAmplitude: 0.00160305
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 4
+EffectColorB: 6
+Effects: DayNight-1-20-20, Coldness-1-19-68, 
+PlacedObjects: HeatArea><562.1791><379.911><262~116, NonZapCoilHeatingCoil><610.5163><433.5507><154~17~0~317.0001~251, ColouredLightSource><2896.185><335.6742><36~198~FF0000~-290^-146~1~False~0~0.8695652~0.7608696~After~1~100, ColouredLightSource><1470.287><392.8035><437~138~FF0000~355^-306~1~False~0~0~0.5~After~1~100, ColouredLightSource><220.5521><395.4709><664~84~FF0000~235^-225~1~False~0~0~0.5~After~1~100, 

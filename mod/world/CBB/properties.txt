@@ -1,0 +1,3 @@
+Subregion: The Tradepost
+Subregion: Frozen Overpass
+Subregion: The Deepcold
