@@ -1,7 +1,11 @@
 Template: NONE
 DangerType: None
-Palette: 4
+CeilingDrips: 0
+Clouds: 0.1086956
+Palette: 12
+EffectColorA: 9
 EffectColorB: 6
 TerrainPalette: NO PALETTE
-Effects: Coldness-1-20-20, DayNight-1-19.375-77.64444, 
-PlacedObjects: NonZapCoilHeatingCoil><380.863><134.6458><25~141~0~172~-37, HeatArea><329.4936><89.80011><133~244, LightBeam><653.0756><328.8478><76~235~165~235~156~5~-832~-16~0.5086955~0~0~1~None~0~0, LightBeam><168.077><95.43457><-25~187~57~187~134~1~-346~368~0.4434783~0~0~1~None~0~0, ColouredLightSource><794.3009><298.019><56~122~FF0000~-492^-143~1~False~0.1847826~0.5108696~0.4782609~After~1~100, ColouredLightSource><168.4154><573.3624><680~-361~FF0000~487^-73~1~False~0.2282609~1~1~After~1~100, 
+Effects: Coldness-1-20-20, DayNight-0.8043478-19.375-77.64444, Desaturation-0.7065217-17-132, 
+PlacedObjects: NonZapCoilHeatingCoil><380.863><134.6458><25~141~0~262~-162, HeatArea><329.4936><89.80011><133~244, LightBeam><653.0756><328.8478><76~235~165~235~156~5~247.0001~-363~0.5086955~0~0~1~None~0~0, ColouredLightSource><826.3009><302.019><40~226~FF0000~-492^-143~1~False~0.1847826~0~0~After~1~100, ColouredLightSource><168.4154><573.3624><697~-254~FF0000~487^-73~1~False~0.2282609~1~1~After~1~100, ColouredLightSource><133.4906><305.9498><728~-191~FF0000~74^-213~1~False~0~1~0.8152174~After~1~100, AdjustableFan><793.485><650.9495><5~8.660254~0~0.4869564~0.1173912~1, AdjustableFan><712.0492><650.1938><5~8.660254~0~0.3782607~0.1173912~1, 
+FadePalette: 10, 0

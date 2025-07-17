@@ -1,0 +1,17 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 1
+RumbleIntensity: 0
+WaveSpeed: 0.7142612
+WaveLength: 0.8928694
+WaveAmplitude: 6.844462E-06
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.06521739
+Palette: 18
+EffectColorA: 3
+EffectColorB: 0
+Effects: Desaturation-1-20-20, DayNight-0.8043478-20-75, Coldness-1-20-129, 
+PlacedObjects: SlipperyZone><1197.13><156.1603><741~278~18^1~0~False~False, SlipperyZone><456.6971><152.7839><100~50~15^1~0~False~False, ColouredLightSource><1737.633><475.9122><159~50~FF0000~-259^-328~1~False~0~0.9782609~0.8804348~After~1~100, SnowSource><1345.671><539.8162><Radial~-395~-496~-432~7.602539~0.5~1, SnowSource><664.3099><577.1877><Radial~-449~-495~245~60.60254~0.5~1, 
+FadePalette: 10, 0, 0

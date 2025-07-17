@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.7283682
+WaveLength: 0.8858159
+WaveAmplitude: 8.563034E-05
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.1086956
+EffectColorA: 9
+Effects: Desaturation-1-20-20, Coldness-1-19-76, DayNight-0.8043478-20-132, Darkness-0.25-274-19, 
+PlacedObjects: ColouredLightSource><488.5941><292.0735><376.9999~232~FF0000~379^-103~1~False~0~0~0.5~After~1~100, ColouredLightSource><115.5747><144.3463><749~166~FF0000~157^-81~1~False~0~0.6413044~0.5~After~1~100, LightBeam><619.068><419.9171><120~144~189~146~89~-27~279~-258~0.6500005~0~0~1~None~0~0, AdjustableFan><691.6992><673.482><5~8.660254~0~0.6282607~0.1391303~1, AdjustableFan><591.1133><671.1648><5~8.660254~0~0.5195651~0.1391303~1, AdjustableFan><651.7><369.5009><5~8.660254~0~0.3673914~0.1391303~1, CosmeticSlimeMold><207.9252><140.0964><85~147, SlimeMold><145.4434><123.949><756~-45~1~3, SlimeMold><168.4462><120.9612><731.0001~-127~2~4, SlimeMold><268.0591><148.0596><367~-157~3~4, SlimeMold><141.4318><151.9167><486~11~1~2, SlimeMold><306.2471><129.2><322~-50~2~4, 
+FadePalette: 10, 0

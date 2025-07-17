@@ -1,0 +1,42 @@
+THE VESSEL|THE VESSEL
+The Vessel|The Vessel
+Vessel|Vessel
+
+Amidst the relentless cold, you walk with<LINE>borrowed light and the promise of release.|Amidst the relentless cold, you walk with<LINE>borrowed light and the promise of release.
+
+Hold the grab buttom while holding a spear to energize it, consuming 1 pip of food.|Hold the grab buttom while holding a spear to energize it, consuming 1 pip of food.
+
+Atmospheric Filter|Atmospheric Filter
+Boreal Bazaar|Boreal Bazaar
+Foundry Complex|Foundry Complex
+Glacial Reservoir|Glacial Reservoir
+Underground Icerails|Underground Icerails
+Megalopolis|Megalopolis
+Convergent Railways|Convergent Railways
+Snowed Conservatory|Snowed Conservatory
+Shadowed Refuse|Shadowed Refuse
+Sliver Of Straw|Sliver Of Straw
+
+Filter Chambers|Filter Chambers
+The Tradepost|The Tradepost
+Frozen Overpass|Frozen Overpass
+The Deepcold|The Deepcold
+Furnace Rows|Furnace Rows
+The Iceducts|The Iceducts
+The Frostline|The Frostline
+Ramparts|Ramparts
+The Synthwork|The Synthwork
+Modular Habitations|Modular Habitations
+Disposals|Disposals
+Hollow Station|Hollow Station
+Crosspoint Tracks|Crosspoint Tracks
+Lower Conduits|Lower Conduits
+Boreal Slopes|Boreal Slopes
+Rustfall Caves|Rustfall Caves
+Sliver Of Straw (Cognitive Relay Anchor)|Sliver Of Straw (Cognitive Relay Anchor)
+Sliver Of Straw (Memory Conflux)|Sliver Of Straw (Memory Conflux)
+Sliver Of Straw (Atmosphere-Chilled Duct)|Sliver Of Straw (Atmosphere-Chilled Duct)
+Sliver Of Straw (Constructive Heat Lattice)|Sliver Of Straw (Constructive Heat Lattice)
+The Foundation|The Foundation
+The Hoist|The Hoist
+The Roof|The Roof

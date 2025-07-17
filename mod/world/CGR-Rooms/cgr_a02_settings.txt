@@ -1,0 +1,6 @@
+Template: NONE
+WaveSpeed: 0.3578392
+WaveLength: 0.9289196
+WaveAmplitude: 1.172511E-06
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0

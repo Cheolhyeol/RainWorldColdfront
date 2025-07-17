@@ -1,20 +1,42 @@
 THE VESSEL|O RECEPTÁCULO
 The Vessel|O Receptáculo
 Vessel|Receptáculo
-Alone and confused, emerge from the settling dust. On your journey<LINE>for rest, discover your role in the tragedies at hand.|Sozinho e confuso, emerja da poeira que se acalma. Em sua jornada<LINE>em busca de descanso, descubra seu papel nas tragédias que se aproximam.
 
+Amidst the relentless cold, you walk with<LINE>borrowed light and the promise of release.|Em meio ao frio implacável, você caminha com<LINE>uma luz emprestada e a promessa de libertação.
+
+Hold the grab buttom while holding a spear to energize it, consuming 1 pip of food.|Segure o botão de pegar enquanto estiver com uma lança na mão para energizá-la, consumindo 1 pip de comida.
+
+Atmospheric Filter|Filtro Atmosférico
 Boreal Bazaar|Bazar Boreal
-
+Foundry Complex|Complexo da Fundição
+Glacial Reservoir|Reservatório Glacial
+Underground Icerails|Trilhos de Gelo Subterrâneos
 Megalopolis|Megalópole
-The Synthwork|A Obra Sintética
+Convergent Railways|Ferrovias Convergentes
+Snowed Conservatory|Conservatório Nevado
+Shadowed Refuse|Rejeitos Sombreados
+Sliver Of Straw|Filete de Palha
+
+Filter Chambers|Câmaras de Filtragem
+The Tradepost|O Posto Comercial
+Frozen Overpass|Viaduto Congelado
+The Deepcold|O Frio Profundo
+Furnace Rows|Fileiras de Fornos
+The Iceducts|Os Dutos de Gelo
+The Frostline|A Linha Fria
+Ramparts|Muralhas
+The Synthwork|A Sintetizadora
 Modular Habitations|Habitações Modulares
 Disposals|Descartes
-
-Sliver Of Straw|Filete De Palha
-Sliver Of Straw (Cognitive Relay Anchor)|Filete De Palha (Âncora de Relé Cognitivo)
-Sliver Of Straw (Memory Conflux)|Filete De Palha (Nodo De Memória)
-Sliver Of Straw (Atmosphere-Chilled Duct)|Filete De Palha (Duto De Atmosfera Resfriada)
-Sliver Of Straw (Constructive Heat Lattice)|Lasca De Palha (Malha De Calor Construtiva)
+Hollow Station|Estação Vazia
+Crosspoint Tracks|Trilhos do Cruzamento
+Lower Conduits|Condutos Inferiores
+Boreal Slopes|Encostas Boreais
+Rustfall Caves|Cavernas da Ferrugem
+Sliver Of Straw (Cognitive Relay Anchor)|Filete de Palha (Âncora de Relé Cognitivo)
+Sliver Of Straw (Memory Conflux)|Filete de Palha (Nodo de Memória)
+Sliver Of Straw (Atmosphere-Chilled Duct)|Filete de Palha (Dutos Resfriados pela Atmosfera)
+Sliver Of Straw (Constructive Heat Lattice)|Filete de Palha (Malha de Calor Construtiva)
 The Foundation|A Fundação
 The Hoist|O Guincho
 The Roof|O Telhado
