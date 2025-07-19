@@ -1,10 +1,18 @@
+// VESSEL
+
 THE VESSEL|THE VESSEL
 The Vessel|The Vessel
 Vessel|Vessel
 
 Amidst the relentless cold, you walk with<LINE>borrowed light and the promise of release.|Amidst the relentless cold, you walk with<LINE>borrowed light and the promise of release.
 
+// VESSEL TUTORIAL
+
+Bioluminescent food is more nourishing for you.|Bioluminescent food is more nourishing for you.
+
 Hold the grab buttom while holding a spear to energize it, consuming 1 pip of food.|Hold the grab buttom while holding a spear to energize it, consuming 1 pip of food.
+
+// REGIONS
 
 Atmospheric Filter|Atmospheric Filter
 Boreal Bazaar|Boreal Bazaar
@@ -17,6 +25,8 @@ Snowed Conservatory|Snowed Conservatory
 Shadowed Refuse|Shadowed Refuse
 Sliver Of Straw|Sliver Of Straw
 
+// SUBREGIONS
+
 Filter Chambers|Filter Chambers
 The Tradepost|The Tradepost
 Frozen Overpass|Frozen Overpass
@@ -25,7 +35,7 @@ Furnace Rows|Furnace Rows
 The Iceducts|The Iceducts
 The Frostline|The Frostline
 Ramparts|Ramparts
-The Synthwork|The Synthwork
+The Synthesizer|The Synthesizer
 Modular Habitations|Modular Habitations
 Disposals|Disposals
 Hollow Station|Hollow Station

@@ -1,11 +1,16 @@
 Template: NONE
 DangerType: None
 CeilingDrips: 0
-Clouds: 0.1086956
-Palette: 12
+WaveSpeed: 0.3586134
+WaveLength: 0.9293067
+WaveAmplitude: 1.209082E-06
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.4891304
+Palette: 1205
 EffectColorA: 9
 EffectColorB: 6
 TerrainPalette: NO PALETTE
-Effects: Coldness-1-20-20, DayNight-0.8043478-19.375-77.64444, Desaturation-0.7065217-17-132, 
-PlacedObjects: NonZapCoilHeatingCoil><380.863><134.6458><25~141~0~262~-162, HeatArea><329.4936><89.80011><133~244, LightBeam><653.0756><328.8478><76~235~165~235~156~5~247.0001~-363~0.5086955~0~0~1~None~0~0, ColouredLightSource><826.3009><302.019><40~226~FF0000~-492^-143~1~False~0.1847826~0~0~After~1~100, ColouredLightSource><168.4154><573.3624><697~-254~FF0000~487^-73~1~False~0.2282609~1~1~After~1~100, ColouredLightSource><133.4906><305.9498><728~-191~FF0000~74^-213~1~False~0~1~0.8152174~After~1~100, AdjustableFan><793.485><650.9495><5~8.660254~0~0.4869564~0.1173912~1, AdjustableFan><712.0492><650.1938><5~8.660254~0~0.3782607~0.1173912~1, 
+Effects: Coldness-1-20-20, DayNight-0.8043478-19.375-77.64444, Darkness-0.2581522-276.5-20.75556, 
+PlacedObjects: NonZapCoilHeatingCoil><380.863><134.6458><25~141~0~262~-162, HeatArea><329.4936><89.80011><133~244, LightBeam><653.0756><328.8478><76~235~165~235~156~5~247.0001~-363~0.5086955~0~0~1~None~0~0, ColouredLightSource><826.3009><302.019><40~226~FF0000~-492^-143~1~False~0.1847826~0~0~After~1~100, ColouredLightSource><133.4906><305.9498><728~-191~FF0000~346^-278~1~False~0~1~0.8152174~After~1~100, AdjustableFan><793.485><650.9495><5~8.660254~0~0.4869564~0.1173912~1, AdjustableFan><712.0492><650.1938><5~8.660254~0~0.3782607~0.1173912~1, InsectGroup><714.8138><193.4395><-28~86~185.9999~263~Beetle~0.8043478, 
 FadePalette: 10, 0

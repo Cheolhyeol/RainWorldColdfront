@@ -1,8 +1,9 @@
 ﻿{
 	"id": "cheol.coldfront",
+	"checksum_override_version": true,
 	"name": "Coldfront",
 	"version": "0.1.0",
-	"authors": "Region and narrative design: Cheolhyeol<LINE>Slugcat programming and abilities: NeonCityRain",
+	"authors": "Region and narrative design: Cheolhyeol<LINE>Slugcat programming and abilities: NeonCityRain<LINE><LINE>Special thanks:<LINE>Auro - for lending sprites used in the development of The Vessel",
 	"description": "This mods adds a new region collection and the vessel Campaign to the game (or almost)",
     "requirements": [ "regionkit", "slime-cubed.slugbase", "com.rainworldgame.shroudedassembly.plugin", "fisobs" ],
     "requirements_names": [ "RegionKit", "SlugBase", "Shrouded Assembly Code", "Fisobs" ],

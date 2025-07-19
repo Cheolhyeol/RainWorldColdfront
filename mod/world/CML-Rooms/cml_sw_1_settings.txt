@@ -1,12 +1,12 @@
 Template: NONE
 DangerType: None
-WaveSpeed: 0.5672562
-WaveLength: 0.9663719
-WaveAmplitude: 0.02971658
+WaveSpeed: 0.3203875
+WaveLength: 0.9101937
+WaveAmplitude: 0.01950119
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
-Palette: 4
+Palette: 1205
 EffectColorA: 9
 EffectColorB: 6
-Effects: DayNight-1-20-20, Coldness-1-20.79166-79.77778, 
-PlacedObjects: HeatArea><344.7401><451.1998><436~130, HeatArea><337.4001><223.1323><438~122, NonZapCoilHeatingCoil><392.7001><508.9991><339~23~0~513.9999~188, NonZapCoilHeatingCoil><388.6925><262.9455><339~20~0~511.9999~381, ColouredLightSource><825.5524><212.0307><39~21~FF0000~-477^-141~1~False~0~0.7391304~0.6086956~After~1~100, ColouredLightSource><152.8148><986.0608><713~116~FF0000~113^-119~1~False~0~0.4456522~0.3913043~After~1~100, ColouredLightSource><823.7813><1001.052><42~305~FF0000~-201^-156~1~False~0~0~0.5~After~1~100, LightBeam><673.0175><1086.949><58~175~139~174~83~-2~229~-130~0.5086962~0~0~1~None~0~0, SlimeMold><377.6579><867.9161><526.0833~6.844437~2~3, CosmeticSlimeMold2><324.5531><855.285><127~-6, SlimeMold><363.6667><791.9319><542~3~2~3, SlimeMold><329.7924><814.0546><310~-18~2~3, SlimeMold><372.4291><838.589><264~41~2~3, SlimeMold><293.4037><110.1279><610.0001~42~2~3, SlimeMold><312.4092><112.1782><590.9999~-40~2~3, SlimeMold><287.5914><216.8221><349~-141~2~3, CosmeticSlimeMold><311.7509><171.2><85~-41, ColouredLightSource><131.6654><1370.431><432~-72~FF0000~260^-304~1~False~0~0~0.5~After~1~100, RectanglePopupTrigger><672.472><94.55196><186.9999~351~Hold the grab buttom while holding a spear to energize it%2consuming 1 pip of food.~0~6~-1~1~True~True~1~136^77, 
+Effects: DayNight-1-20-20, Coldness-1-20.79166-79.77778, Darkness-0.25-275-19, 
+PlacedObjects: HeatArea><344.7401><451.1998><436~130, HeatArea><337.4001><223.1323><438~122, NonZapCoilHeatingCoil><392.7001><508.9991><339~23~0~513.9999~188, NonZapCoilHeatingCoil><388.6925><262.9455><339~20~0~511.9999~381, ColouredLightSource><825.5524><212.0307><39~21~FF0000~-477^-141~1~False~0~0.7391304~0.6086956~After~1~100, ColouredLightSource><152.8148><986.0608><713~116~FF0000~113^-119~1~False~0~0.4456522~0.3913043~After~1~100, ColouredLightSource><823.7813><1001.052><42~305~FF0000~-201^-156~1~False~0~0~0.5~After~1~100, LightBeam><673.0175><1086.949><58~175~139~174~83~-2~229~-130~0.5086962~0~0~1~None~0~0, SlimeMold><377.6579><867.9161><526.0833~6.844437~2~3, CosmeticSlimeMold2><324.5531><855.285><127~-6, SlimeMold><363.6667><791.9319><542~3~2~3, SlimeMold><329.7924><814.0546><310~-18~2~3, SlimeMold><372.4291><838.589><264~41~2~3, SlimeMold><293.4037><110.1279><610.0001~42~2~3, SlimeMold><312.4092><112.1782><590.9999~-40~2~3, SlimeMold><287.5914><216.8221><349~-141~2~3, CosmeticSlimeMold><311.7509><171.2><85~-41, ColouredLightSource><131.6654><1370.431><432~-72~FF0000~260^-304~1~False~0~0~0.5~After~1~100, RectanglePopupTrigger><672.472><94.55196><186.9999~351~Hold the grab buttom while holding a spear to energize it%2consuming 1 pip of food.~0~6~-1~1~True~True~-1~128^137, 

@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.4340475
+WaveLength: 0.9670237
+WaveAmplitude: 1.570293E-14
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0
+Palette: 1205
+EffectColorA: 9
+EffectColorB: 6
+Effects: Desaturation-0-20-20, DayNight-0.8007247-21.5-75.51111, Coldness-1-277.2083-21.46666, 
+PlacedObjects: ColouredLightSource><1886.873><397.6455><8.625~-562.9777~FF0000~-165.7501^-184.6~1~False~0~0~0.5~After~1~100, ColouredLightSource><1010.411><642.6411><884.8333~-784.1333~FF0000~173.5417^-191.7111~1~False~0.8002717~1~0.931159~After~1~100, ColouredLightSource><121.9386><501.2221><753.0834~25.11108~FF0000~434.9167^-338.9111~1~False~0~0~0.5~After~1~100, AdjustableFan><911.9834><268.2687><5~8.660254~0~0.4538959~0.1228266~1, AdjustableFan><1948.96><710.723><5~8.660254~0~0.4~0.1151269~1, AdjustableFan><1951.527><611.1746><5~8.660254~0~0.5308878~0.1151269~1, ColouredLightSource><602.4078><643.713><272.8334~-323.3333~FFFFFF~94.20831^-77.93335~1~False~1~0~0.5~Always~0~100, ColouredLightSource><734.3368><644.07><-152.1669~-529.5555~FFFFFF~111.2084^-55.88879~1~False~1~0~0.5~Always~0~100, ColouredLightSource><871.5841><645.677><5.083252~-533.1111~FFFFFF~101.2916^-77.93329~1~False~1~0~0.5~Always~0~100, 
+FadePalette: 10, 0, 0

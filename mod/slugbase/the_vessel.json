@@ -1,11 +1,49 @@
 {
 	"id": "thevessel",
 	"name": "The Vessel",
-	"description": "Alone and confused, emerge from the settling dust. On your journey<LINE>for rest, discover your role in the tragedies at hand.",
+	"description": "Wandering through a dying world, you carry a fragile light not your own.<LINE>A silent will drives you forward — seeking purpose, or perhaps an end.<LINE>In the frozen dark, even borrowed hope is enough to keep walking.",
 	"features": {
-		"color": "9cf0a4",
+		"color": "c3c4c5",
 		"start_room": "CML_VESSELSPAWN",
 
-		"select_menu_scene": "Slugcat_Vessel"
+		"select_menu_scene": "Slugcat_Vessel",
+		
+		"auto_grab_batflies": false,
+		"weight": [0.9, 0.7],
+		"tunnel_speed": [0.9, 0.7],
+		"climb_speed": [0.9, 0.7],
+		"walk_speed": [0.9, 0.7],
+		"crouch_stealth": [0.9, 0.7],
+		"throw_skill": [2, 1.5],
+		"lung_capacity": [0.9, 0.7],
+		"loudness": [0.9, 0.7],
+		"diet":
+		{
+			"corpses": 0.2,
+  			"plants": 0.5,
+			"meat": 0.5,
+			"overrides":
+			{	
+				"SlimeMold": 4,
+				"SSOracleSwarmer": 4,
+				"GlowWeed": 4,
+				"LillyPuck": 3,
+				"LanternMouse": 8,
+				"Mushroom": 3,
+				"KarmaFlower": 3
+			}
+		},
+		"back_spear": true,
+		"can_maul": true,
+		"maul_damage": 0.5,
+		"karma": 4,
+		"karma_cap": 4,
+		"the_mark": true,
+		"the_glow": true,
+		"guide_overseer": 4,
+
+		"food_min": 4,
+		"food_max": 8
 	}
+	
 }

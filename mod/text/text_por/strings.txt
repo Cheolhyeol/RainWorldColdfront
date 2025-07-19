@@ -1,10 +1,18 @@
+// VESSEL
+
 THE VESSEL|O RECEPTÁCULO
 The Vessel|O Receptáculo
 Vessel|Receptáculo
 
 Amidst the relentless cold, you walk with<LINE>borrowed light and the promise of release.|Em meio ao frio implacável, você caminha com<LINE>uma luz emprestada e a promessa de libertação.
 
+// VESSEL TUTORIAL
+
+Bioluminescent food is more nourishing for you.|Alimentos bioluminescentes são mais nutritivos para você.
+
 Hold the grab buttom while holding a spear to energize it, consuming 1 pip of food.|Segure o botão de pegar enquanto estiver com uma lança na mão para energizá-la, consumindo 1 pip de comida.
+
+// REGIONS
 
 Atmospheric Filter|Filtro Atmosférico
 Boreal Bazaar|Bazar Boreal
@@ -17,6 +25,8 @@ Snowed Conservatory|Conservatório Nevado
 Shadowed Refuse|Rejeitos Sombreados
 Sliver Of Straw|Filete de Palha
 
+// SUBREGIONS
+
 Filter Chambers|Câmaras de Filtragem
 The Tradepost|O Posto Comercial
 Frozen Overpass|Viaduto Congelado
@@ -25,7 +35,7 @@ Furnace Rows|Fileiras de Fornos
 The Iceducts|Os Dutos de Gelo
 The Frostline|A Linha Fria
 Ramparts|Muralhas
-The Synthwork|A Sintetizadora
+The Synthesizer|A Sintetizadora
 Modular Habitations|Habitações Modulares
 Disposals|Descartes
 Hollow Station|Estação Vazia
