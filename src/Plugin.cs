@@ -74,7 +74,7 @@ namespace cheolsVesselSlugcat
                             {
                                 Vector2 vector = Vector2.Lerp(self.firstChunk.pos, self.firstChunk.lastPos, 0.35f);
                                 self.room.AddObject(new SootMark(self.room, vector, 80f, true));
-                                self.room.AddObject(new Explosion.ExplosionLight(vector, 280f, 1f, 7, 
+                                self.room.AddObject(new Explosion.ExplosionLight(vector, 280f, 1f, 7,
                                     new Color(1f, 0.4f, 0.3f) // < can be custom
                                     ));
                                 self.room.AddObject(new Explosion.ExplosionLight(vector, 230f, 1f, 3, new Color(1f, 1f, 1f)));
@@ -133,7 +133,7 @@ namespace cheolsVesselSlugcat
                     }
                 }
             }
-            
+
         }
 
         private AbstractPhysicalObject.AbstractObjectType CustomCrafting(Player self)
@@ -277,5 +277,57 @@ namespace cheolsVesselSlugcat
                 #endregion
             }
         }
+
+        // add custom tile spawn
+        private static void Player_ctor(On.Player.orig_ctor orig, Player self, AbstractCreature abstractCreature, World world)
+        {
+            orig(self, abstractCreature, world);
+            if (self.room is Room playerRoom
+                && playerRoom.game.IsStorySession
+                && playerRoom.game.GetStorySession.saveState is SaveState save
+                && !save.GetTeleportationDone())
+            {
+
+                InitializeTargetRoomID(playerRoom);
+
+                int currentRoomIndex = self.abstractCreature.pos.room;
+
+                if (currentRoomIndex == NewSpawnPoint.room)
+                {
+                    save.SetTeleportationDone(true);
+                    self.abstractCreature.pos = NewSpawnPoint;
+                    Vector2 newPosition = self.room.MiddleOfTile(NewSpawnPoint.x, NewSpawnPoint.y);
+                    Array.ForEach(self.bodyChunks, x => x.pos = newPosition);
+                    self.standing = true;
+                    self.animation = Player.AnimationIndex.StandUp;
+                }
+            }
+        }
+
+        private static int targetRoomID = -1;
+        static WorldCoordinate NewSpawnPoint
+        {
+            get
+            {
+                if (targetRoomID == -1) throw new Exception("Target room ID is not initialized!");
+                return new WorldCoordinate(targetRoomID, originalSpawnPoint.x, originalSpawnPoint.y, originalSpawnPoint.abstractNode);
+            }
+        }
+
+        private static readonly WorldCoordinate originalSpawnPoint = new WorldCoordinate(-1, 47, 30, 0);
+
+        static void InitializeTargetRoomID(Room room)
+        {
+            if (targetRoomID == -1)
+            {
+                AbstractRoom targetRoom = room.world.GetAbstractRoom("CML_VESSELSPAWN") ?? throw new Exception($"Room 'CML_VESSELSPAWN' does not exist.");
+                targetRoomID = targetRoom.index;
+            }
+        }
+
+        private const string teleportationDone = uniqueprefix + "TeleportationDone";
+
+        public static bool GetTeleportationDone(this SaveState save) => save.miscWorldSaveData.GetSlugBaseData().TryGet(teleportationDone, out bool done) && done;
+        public static void SetTeleportationDone(this SaveState save, bool value) => save.miscWorldSaveData.GetSlugBaseData().Set(teleportationDone, value);
     }
 }
