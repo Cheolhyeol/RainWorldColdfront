@@ -26,6 +26,7 @@ namespace SlugTemplate
             On.Player.Jump += Player_Jump;
             On.Player.Die += Player_Die;
             On.Lizard.ctor += Lizard_ctor;
+            On.Player.ctor += Player_ctor;
         }
 
         private AbstractPhysicalObject.AbstractObjectType CustomCrafting(Player self)
@@ -111,5 +112,60 @@ namespace SlugTemplate
                 room.InGameNoise(new Noise.InGameNoise(pos, 9000f, self, 1f));
             }
         }
+
+        // Add custom spawn tile
+
+        private static void Player_ctor(On.Player.orig_ctor orig, Player self, AbstractCreature abstractCreature, World world)
+        {
+            orig(self, abstractCreature, world);
+            if (self.room is Room playerRoom
+                && playerRoom.game.IsStorySession
+                && playerRoom.game.GetStorySession.saveState is SaveState save
+                && !save.GetTeleportationDone())
+            {
+                if (playerRoom.game.IsVoidStoryCampaign())
+                {
+                    InitializeTargetRoomID(playerRoom);
+                }
+
+                int currentRoomIndex = self.abstractCreature.pos.room;
+
+                if (currentRoomIndex == NewSpawnPoint.room)
+                {
+                    save.SetTeleportationDone(true);
+                    self.abstractCreature.pos = NewSpawnPoint;
+                    Vector2 newPosition = self.room.MiddleOfTile(NewSpawnPoint.x, NewSpawnPoint.y);
+                    Array.ForEach(self.bodyChunks, x => x.pos = newPosition);
+                    self.standing = true;
+                    self.animation = Player.AnimationIndex.StandUp;
+                }
+            }
+        }
+
+        private static int targetRoomID = -1;
+        static WorldCoordinate NewSpawnPoint
+        {
+            get
+            {
+                if (targetRoomID == -1) throw new Exception("Target room ID is not initialized!");
+                return new WorldCoordinate(targetRoomID, originalSpawnPoint.x, originalSpawnPoint.y, originalSpawnPoint.abstractNode);
+            }
+        }
+
+        private static readonly WorldCoordinate originalSpawnPoint = new WorldCoordinate(-1, 47, 30, 0);
+
+        static void InitializeTargetRoomID(Room room)
+        {
+            if (targetRoomID == -1)
+            {
+                AbstractRoom targetRoom = room.world.GetAbstractRoom("CML_VESSELSPAWN") ?? throw new Exception($"Room 'CML_VESSELSPAWN' does not exist.");
+                targetRoomID = targetRoom.index;
+            }
+        }
+
+        private const string teleportationDone = uniqueprefix + "TeleportationDone";
+
+        public static bool GetTeleportationDone(this SaveState save) => save.miscWorldSaveData.GetSlugBaseData().TryGet(teleportationDone, out bool done) && done;
+        public static void SetTeleportationDone(this SaveState save, bool value) => save.miscWorldSaveData.GetSlugBaseData().Set(teleportationDone, value);
     }
 }
