@@ -1,0 +1,8 @@
+[FIND]OMNI><Z03.ogg><686.3962><264.885><0.9619565><1.9, 
+[REPLACE]
+[FIND], 
+[REPLACE]
+[FIND]SeeCreature<tA>event<tB>MusicEvent<eA>songName<eB>rw_42 - kayava<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>1<eA>stopAtGate<eB>1<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>706.6423<tB>198.7928<tA>fireChance<tB>1<tA>entrance<tB>0<tA>karma<tB>0<tA>slugcats<tB>, 
+[REPLACE]
+[FIND], 
+[REPLACE]
