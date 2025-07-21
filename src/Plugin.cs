@@ -326,7 +326,7 @@ namespace cheolsVesselSlugcat
             }
         }
 
-        private static readonly WorldCoordinate originalSpawnPoint = new WorldCoordinate(-1, 47, 30, 0);
+        private static readonly WorldCoordinate originalSpawnPoint = new WorldCoordinate(-1, 35, 13, 0);
 
         static void InitializeTargetRoomID(Room room)
         {
