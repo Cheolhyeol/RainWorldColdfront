@@ -5,12 +5,11 @@ using RWCustom;
 using SlugBase.SaveData;
 using System;
 using UnityEngine;
-using VoidTemplate;
 
 namespace cheolsVesselSlugcat
 {
     [BepInPlugin(MOD_ID, "The Vessel", "0.1.0")]
-    class cheolVesselPlugin : BaseUnityPlugin
+    class CheolVesselPlugin : BaseUnityPlugin
     {
         private const string MOD_ID = "cheol.thevessel";
 
@@ -21,6 +20,7 @@ namespace cheolsVesselSlugcat
             On.Player.Die += explodeDeath; // singularity bomb explosion on death
             On.Player.GrabUpdate += vesselGrabUpdate; // enable crafting without IL hooks
             On.Player.SpitUpCraftedObject += vesselCraftResults; // the results of crafting
+            Spawn.Hook();
             On.PlayerGraphics.Update += craftingGraphicsAnimation;
         }
 
@@ -282,6 +282,15 @@ namespace cheolsVesselSlugcat
 
 
         // add custom tile spawn
+    }
+
+
+    public static class Spawn
+    {
+        public static void Hook()
+        {
+            On.Player.ctor += Player_ctor;
+        }
         private static void Player_ctor(On.Player.orig_ctor orig, Player self, AbstractCreature abstractCreature, World world)
         {
             orig(self, abstractCreature, world);
@@ -327,6 +336,8 @@ namespace cheolsVesselSlugcat
                 targetRoomID = targetRoom.index;
             }
         }
+
+        const string uniqueprefix = "vesselmod";
 
         private const string teleportationDone = uniqueprefix + "TeleportationDone";
 
