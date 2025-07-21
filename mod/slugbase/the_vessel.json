@@ -1,7 +1,7 @@
 {
 	"id": "thevessel",
 	"name": "The Vessel",
-	"description": "Wandering through a dying world, you carry a fragile light not your own.<LINE>A silent will drives you forward — seeking purpose, or perhaps an end.<LINE>In the frozen dark, even borrowed hope is enough to keep walking.",
+	"description": "Amidst the relentless cold, you walk with borrowed<LINE>light and the promise of release.",
 	"features": {
 		"color": "c3c4c5",
 		"start_room": "CML_VESSELSPAWN",
