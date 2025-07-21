@@ -326,13 +326,13 @@ namespace cheolsVesselSlugcat
             }
         }
 
-        private static readonly WorldCoordinate originalSpawnPoint = new WorldCoordinate(-1, 27, 13, 0);
+        private static readonly WorldCoordinate originalSpawnPoint = new WorldCoordinate(-1, 47, 30, 0);
 
         static void InitializeTargetRoomID(Room room)
         {
             if (targetRoomID == -1)
             {
-                AbstractRoom targetRoom = room.world.GetAbstractRoom("SB_A14") ?? throw new Exception($"Room 'SB_A14' does not exist.");
+                AbstractRoom targetRoom = room.world.GetAbstractRoom("CML_VESSELSPAWN") ?? throw new Exception($"Room 'CML_VESSELSPAWN' does not exist.");
                 targetRoomID = targetRoom.index;
             }
         }
