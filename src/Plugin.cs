@@ -287,7 +287,7 @@ namespace cheolsVesselSlugcat
                 && playerRoom.game.GetStorySession.saveState is SaveState save
                 && !save.GetTeleportationDone())
             {
-
+                
                 InitializeTargetRoomID(playerRoom);
 
                 int currentRoomIndex = self.abstractCreature.pos.room;
