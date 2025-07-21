@@ -1,9 +1,11 @@
-﻿using System;
-using BepInEx;
-using UnityEngine;
-using RWCustom;
+﻿using BepInEx;
 using MoreSlugcats;
 using Noise;
+using RWCustom;
+using SlugBase.SaveData;
+using System;
+using UnityEngine;
+using VoidTemplate;
 
 namespace cheolsVesselSlugcat
 {
@@ -278,6 +280,7 @@ namespace cheolsVesselSlugcat
             }
         }
 
+
         // add custom tile spawn
         private static void Player_ctor(On.Player.orig_ctor orig, Player self, AbstractCreature abstractCreature, World world)
         {
@@ -287,7 +290,7 @@ namespace cheolsVesselSlugcat
                 && playerRoom.game.GetStorySession.saveState is SaveState save
                 && !save.GetTeleportationDone())
             {
-                
+
                 InitializeTargetRoomID(playerRoom);
 
                 int currentRoomIndex = self.abstractCreature.pos.room;
@@ -314,13 +317,13 @@ namespace cheolsVesselSlugcat
             }
         }
 
-        private static readonly WorldCoordinate originalSpawnPoint = new WorldCoordinate(-1, 47, 30, 0);
+        private static readonly WorldCoordinate originalSpawnPoint = new WorldCoordinate(-1, 27, 13, 0);
 
         static void InitializeTargetRoomID(Room room)
         {
             if (targetRoomID == -1)
             {
-                AbstractRoom targetRoom = room.world.GetAbstractRoom("CML_VESSELSPAWN") ?? throw new Exception($"Room 'CML_VESSELSPAWN' does not exist.");
+                AbstractRoom targetRoom = room.world.GetAbstractRoom("SB_A14") ?? throw new Exception($"Room 'SB_A14' does not exist.");
                 targetRoomID = targetRoom.index;
             }
         }
