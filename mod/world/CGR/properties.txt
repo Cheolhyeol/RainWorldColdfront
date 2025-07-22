@@ -1,1 +1,2 @@
-Subregion: The Iceducts
+Subregion: Glacial Reservoir (Upper)
+Subregion: Glacial Reservoir (Lower)

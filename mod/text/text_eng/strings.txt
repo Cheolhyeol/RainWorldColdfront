@@ -4,7 +4,7 @@ THE VESSEL|THE VESSEL
 The Vessel|The Vessel
 Vessel|Vessel
 
-Amidst the relentless cold, you walk with<LINE>borrowed light and the promise of release.|Amidst the relentless cold, you walk with<LINE>borrowed light and the promise of release.
+Amidst the relentless cold, you walk with borrowed<LINE>light and the promise of release.|Amidst the relentless cold, you walk with borrowed<LINE>light and the promise of release.
 
 // VESSEL TUTORIAL
 
@@ -32,7 +32,8 @@ The Tradepost|The Tradepost
 Frozen Overpass|Frozen Overpass
 The Deepcold|The Deepcold
 Furnace Rows|Furnace Rows
-The Iceducts|The Iceducts
+Glacial Reservoir (Upper)|Glacial Reservoir (Upper)
+Glacial Reservoir (Lower)|Glacial Reservoir (Lower)
 The Frostline|The Frostline
 Ramparts|Ramparts
 The Synthesizer|The Synthesizer

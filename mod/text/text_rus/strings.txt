@@ -1,0 +1,53 @@
+// VESSEL
+
+THE VESSEL|СОСУД  
+The Vessel|Сосуд  
+Vessel|Сосуд  
+
+Amidst the relentless cold, you walk with borrowed<LINE>light and the promise of release.|Среди беспощадного холода ты идёшь с<LINE>заимствованным светом и обещанием освобождения.
+
+// VESSEL TUTORIAL
+
+Bioluminescent food is more nourishing for you.|Биолюминесцентная еда питательнее для тебя.
+
+Hold the grab buttom while holding a spear to energize it, consuming 1 pip of food.|Удерживай кнопку захвата с копьём в руках, чтобы зарядить его, потратив 1 деление еды.
+
+// REGIONS
+
+Atmospheric Filter|Атмосферный Фильтр  
+Boreal Bazaar|Северный Базар  
+Foundry Complex|Литейный Комплекс  
+Glacial Reservoir|Ледниковое Хранилище  
+Underground Icerails|Подземные Ледяные Рельсы  
+Megalopolis|Мегаполис  
+Convergent Railways|Сходящиеся Железные Дороги  
+Snowed Conservatory|Заснеженный Консерваторий  
+Shadowed Refuse|Затенённые Отбросы  
+Sliver Of Straw|Соломенная Щепка
+
+// SUBREGIONS
+
+Filter Chambers|Фильтрационные Камеры  
+The Tradepost|Торговый Пост  
+Frozen Overpass|Замёрзшая Эстакада  
+The Deepcold|Глубокий Холод  
+Furnace Rows|Ряды Печей  
+Glacial Reservoir (Upper)|Ледниковое Хранилище (Верхняя Часть)  
+Glacial Reservoir (Lower)|Ледниковое Хранилище (Нижняя Часть)  
+The Frostline|Линия Мороза  
+Ramparts|Укрепления  
+The Synthesizer|Синтезатор  
+Modular Habitations|Модульные Жилища  
+Disposals|Сбросы  
+Hollow Station|Пустая Станция  
+Crosspoint Tracks|Перекрёстные Пути  
+Lower Conduits|Нижние Каналы  
+Boreal Slopes|Северные Склоны  
+Rustfall Caves|Пещеры Ржавого Пада  
+Sliver Of Straw (Cognitive Relay Anchor)|Соломенная Щепка (Якорь Когнитивного Реле)  
+Sliver Of Straw (Memory Conflux)|Соломенная Щепка (Узел Памяти)  
+Sliver Of Straw (Atmosphere-Chilled Duct)|Соломенная Щепка (Охлаждённые Атмосферой Каналы)  
+Sliver Of Straw (Constructive Heat Lattice)|Соломенная Щепка (Конструктивная Тепловая Решётка)  
+The Foundation|Фундамент  
+The Hoist|Подъёмник  
+The Roof|Крыша  
