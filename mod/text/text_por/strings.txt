@@ -1,53 +1,53 @@
-    // VESSEL
+// VESSEL
 
-    THE VESSEL|O RECEPTÁCULO
-    The Vessel|O Receptáculo
-    Vessel|Receptáculo
+THE VESSEL|O RECEPTÁCULO
+The Vessel|O Receptáculo
+Vessel|Receptáculo
 
-    Amidst the relentless cold, you walk with borrowed<LINE>light and the promise of release.|Em meio ao frio implacável, você caminha com uma<LINE>luz emprestada e a promessa de libertação.
+Amidst the relentless cold, you walk with borrowed<LINE>light and the promise of release.|Em meio ao frio implacável, você caminha com uma<LINE>luz emprestada e a promessa de libertação.
 
-    // VESSEL TUTORIAL
+// VESSEL TUTORIAL
 
-    Bioluminescent food is more nourishing for you.|Alimentos bioluminescentes são mais nutritivos para você.
+Bioluminescent food is more nourishing for you.|Alimentos bioluminescentes são mais nutritivos para você.
 
-    Hold the grab buttom while holding a spear to energize it, consuming 1 pip of food.|Segure o botão de pegar enquanto estiver com uma lança na mão para energizá-la, consumindo 1 pip de comida.
+Hold the grab buttom while holding a spear to energize it, consuming 1 pip of food.|Segure o botão de pegar enquanto estiver com uma lança na mão para energizá-la, consumindo 1 pip de comida.
 
-    // REGIONS
+// REGIONS
 
-    Atmospheric Filter|Filtro Atmosférico
-    Boreal Bazaar|Bazar Boreal
-    Foundry Complex|Complexo da Fundição
-    Glacial Reservoir|Reservatório Glacial
-    Underground Icerails|Trilhos de Gelo Subterrâneos
-    Megalopolis|Megalópole
-    Convergent Railways|Ferrovias Convergentes
-    Snowed Conservatory|Conservatório Nevado
-    Shadowed Refuse|Rejeitos Sombreados
-    Sliver Of Straw|Filete de Palha
+Atmospheric Filter|Filtro Atmosférico
+Boreal Bazaar|Bazar Boreal
+Foundry Complex|Complexo da Fundição
+Glacial Reservoir|Reservatório Glacial
+Underground Icerails|Trilhos de Gelo Subterrâneos
+Megalopolis|Megalópole
+Convergent Railways|Ferrovias Convergentes
+Snowed Conservatory|Conservatório Nevado
+Shadowed Refuse|Rejeitos Sombreados
+Sliver Of Straw|Filete de Palha
 
-    // SUBREGIONS
+// SUBREGIONS
 
-    Filter Chambers|Câmaras de Filtragem
-    The Tradepost|O Posto Comercial
-    Frozen Overpass|Viaduto Congelado
-    The Deepcold|O Frio Profundo
-    Furnace Rows|Fileiras de Fornos
-    Glacial Reservoir (Upper)|Reservatório Glacial (Superior)
-    Glacial Reservoir (Lower)|Reservatório Glacial (Inferior)
-    The Frostline|A Linha Fria
-    Ramparts|Muralhas
-    The Synthesizer|A Sintetizadora
-    Modular Habitations|Habitações Modulares
-    Disposals|Descartes
-    Hollow Station|Estação Vazia
-    Crosspoint Tracks|Trilhos do Cruzamento
-    Lower Conduits|Condutos Inferiores
-    Boreal Slopes|Encostas Boreais
-    Rustfall Caves|Cavernas da Ferrugem
-    Sliver Of Straw (Cognitive Relay Anchor)|Filete de Palha (Âncora de Relé Cognitivo)
-    Sliver Of Straw (Memory Conflux)|Filete de Palha (Nodo de Memória)
-    Sliver Of Straw (Atmosphere-Chilled Duct)|Filete de Palha (Dutos Resfriados pela Atmosfera)
-    Sliver Of Straw (Constructive Heat Lattice)|Filete de Palha (Malha de Calor Construtiva)
-    The Foundation|A Fundação
-    The Hoist|O Guincho
-    The Roof|O Telhado
+Filter Chambers|Câmaras de Filtragem
+The Tradepost|O Posto Comercial
+Frozen Overpass|Viaduto Congelado
+The Deepcold|O Frio Profundo
+Furnace Rows|Fileiras de Fornos
+Glacial Reservoir (Upper)|Reservatório Glacial (Superior)
+Glacial Reservoir (Lower)|Reservatório Glacial (Inferior)
+The Frostline|A Linha Fria
+Ramparts|Muralhas
+The Synthesizer|A Sintetizadora
+Modular Habitations|Habitações Modulares
+Disposals|Descartes
+Hollow Station|Estação Vazia
+Crosspoint Tracks|Trilhos do Cruzamento
+Lower Conduits|Condutos Inferiores
+Boreal Slopes|Encostas Boreais
+Rustfall Caves|Cavernas da Ferrugem
+Sliver Of Straw (Cognitive Relay Anchor)|Filete de Palha (Âncora de Relé Cognitivo)
+Sliver Of Straw (Memory Conflux)|Filete de Palha (Nodo de Memória)
+Sliver Of Straw (Atmosphere-Chilled Duct)|Filete de Palha (Dutos Resfriados pela Atmosfera)
+Sliver Of Straw (Constructive Heat Lattice)|Filete de Palha (Malha de Calor Construtiva)
+The Foundation|A Fundação
+The Hoist|O Guincho
+The Roof|O Telhado

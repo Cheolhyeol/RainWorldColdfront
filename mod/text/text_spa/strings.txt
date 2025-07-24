@@ -1,0 +1,53 @@
+// VESSEL
+
+THE VESSEL|EL RECIPIENTE  
+The Vessel|El Recipiente  
+Vessel|Recipiente  
+
+Amidst the relentless cold, you walk with borrowed<LINE>light and the promise of release.|En medio del frío implacable, caminas con una<LINE>luz prestada y la promesa de liberación.
+
+// VESSEL TUTORIAL
+
+Bioluminescent food is more nourishing for you.|Los alimentos bioluminiscentes son más nutritivos para ti.
+
+Hold the grab buttom while holding a spear to energize it, consuming 1 pip of food.|Mantén presionado el botón de agarrar mientras sostienes una lanza para energizarla, consumiendo 1 pip de comida.
+
+// REGIONS
+
+Atmospheric Filter|Filtro Atmosférico  
+Boreal Bazaar|Bazar Boreal  
+Foundry Complex|Complejo de Fundición  
+Glacial Reservoir|Reservorio Glacial  
+Underground Icerails|Rieles de Hielo Subterráneos  
+Megalopolis|Megalópolis  
+Convergent Railways|Ferrocarriles Convergentes  
+Snowed Conservatory|Conservatorio Nevado  
+Shadowed Refuse|Desechos Sombríos  
+Sliver Of Straw|Hebra de Paja
+
+// SUBREGIONS
+
+Filter Chambers|Cámaras de Filtrado  
+The Tradepost|El Puesto Comercial  
+Frozen Overpass|Paso Elevado Congelado  
+The Deepcold|El Frío Profundo  
+Furnace Rows|Filas de Hornos  
+Glacial Reservoir (Upper)|Reservorio Glacial (Superior)  
+Glacial Reservoir (Lower)|Reservorio Glacial (Inferior)  
+The Frostline|La Línea de Escarcha  
+Ramparts|Murallas  
+The Synthesizer|El Sintetizador  
+Modular Habitations|Habitaciones Modulares  
+Disposals|Desechos  
+Hollow Station|Estación Hueca  
+Crosspoint Tracks|Vías del Cruce  
+Lower Conduits|Conductos Inferiores  
+Boreal Slopes|Pendientes Boreales  
+Rustfall Caves|Cuevas de Óxido  
+Sliver Of Straw (Cognitive Relay Anchor)|Hebra de Paja (Ancla de Relé Cognitivo)  
+Sliver Of Straw (Memory Conflux)|Hebra de Paja (Nexo de Memoria)  
+Sliver Of Straw (Atmosphere-Chilled Duct)|Hebra de Paja (Conducto Enfriado por la Atmósfera)  
+Sliver Of Straw (Constructive Heat Lattice)|Hebra de Paja (Malla de Calor Constructiva)  
+The Foundation|La Fundación  
+The Hoist|El Montacargas  
+The Roof|El Techo
