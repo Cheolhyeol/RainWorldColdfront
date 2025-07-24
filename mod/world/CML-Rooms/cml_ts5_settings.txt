@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: None
+Palette: 1205
+EffectColorA: 9
+EffectColorB: 6
+Effects: DayNight-0.9021739-20-20, Coldness-1-18-72, 
+FadePalette: 10, 0
