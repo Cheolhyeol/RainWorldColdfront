@@ -6,7 +6,7 @@
 		"color": "c3c4c5",
 		"start_room": "CML_VESSELSPAWN",
 
-		"select_menu_scene": "Slugcat_Vessel",
+		"select_menu_scene": "menu_vessel",
 		
 		"auto_grab_batflies": false,
 		"weight": [0.9, 0.7],

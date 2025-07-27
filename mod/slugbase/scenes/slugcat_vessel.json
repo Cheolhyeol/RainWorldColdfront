@@ -1,12 +1,11 @@
 {
-	"id": "Slugcat_Vessel",
-	"scene_folder": "scenes/slugcat - vessel",
+	"id": "menu_vessel",
+	"scene_folder": "scenes/menu - vessel",
 	"images": [
-		{ "name": "Background", "pos": [0, 0], "depth": 3.7, "shader": "Basic" },
-		{ "name": "Slugcat",    "pos": [0, 0], "depth": 2.8, "shader": "Basic" },
-		{ "name": "Grass 3",    "pos": [0, 0], "depth": 2.2, "shader": "Basic" },
-		{ "name": "Grass 2",    "pos": [0, 0], "depth": 2.0, "shader": "Basic" },
-		{ "name": "Grass 1",    "pos": [0, 0], "depth": 1.8, "shader": "Basic" }
+		{ "name": "Background", "pos": [0, 0], "depth": 4.8, "shader": "Basic" },
+		{ "name": "Slugcat",    "pos": [0, 0], "depth": 3.8, "shader": "Basic" },
+		{ "name": "Bubbles2",    "pos": [0, 0], "depth": 2.8, "shader": "Basic" },
+		{ "name": "Bubbles",    "pos": [0, 0], "depth": 1.8, "shader": "Basic" }
 	],
 	"idle_depths": [ 2.8 ],
 	"glow_pos": [688, 484],

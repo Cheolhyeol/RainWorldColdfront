@@ -1,21 +1,22 @@
-CML_VESSELSPAWN: 1275><-51><681.298><8.9772><1><The Synthesizer
-CML_TS1: 1080><-87><571.946><8.1154><1><The Synthesizer
-CML_TS6: 141><60><20.9458><7.1154><1><The Synthesizer
-CML_SW_1: 894><0><463.914><8.1106><1><The Synthesizer
-CML_SW_2: 825><-195><325.622><-119.378><1><The Synthesizer
-CML_SW_3: 717><192><350.1><7.21><1><The Synthesizer
-CML_SW_4: 432><273><237.268><216.7><1><The Synthesizer
-CML_SW_5: 438><66><238.102><8.7438><1><The Synthesizer
-CML_SW_7: 87><306><21.1768><168.764><1><The Synthesizer
-CML_SW_8: -168><144><-90.8234><7.534><1><The Synthesizer
-CML_MH_ENTRANCE: -561><21><-408.212><6.7216><1><Modular Habitations
-CML_THUMBNAIL: -1419><183><-734.66><4.466><1><Modular Habitations
-CML_HABITATIONS_1: -1977><186><-948.202><57.444><1><Modular Habitations
-CML_S1: 1227><-231><643.456><-118.278><1><The Synthesizer
-CML_S2: 423><435><236.176><338.534><1><The Synthesizer
-CML_MH_ENTRANCE_2: -1656><192><-625.198><5.7778><1><Modular Habitations
+CML_VESSELSPAWN: 1275><-48><681.298><8.9772><1><The Synthesizer
+CML_TS1: 1080><-84><571.946><8.1154><1><The Synthesizer
+CML_TS6: 141><63><20.9458><7.1154><1><The Synthesizer
+CML_SW_1: 894><3><463.914><8.1106><1><The Synthesizer
+CML_SW_2: 825><-192><325.622><-119.378><1><The Synthesizer
+CML_SW_3: 717><195><350.1><7.21><1><The Synthesizer
+CML_SW_4: 432><276><237.268><216.7><1><The Synthesizer
+CML_SW_5: 438><69><238.102><8.7438><1><The Synthesizer
+CML_SW_7: 87><309><21.1768><168.764><1><The Synthesizer
+CML_SW_8: -168><147><-90.8234><7.534><1><The Synthesizer
+CML_MH_ENTRANCE: -561><24><-408.212><6.7216><1><Modular Habitations
+CML_THUMBNAIL: -1419><186><-734.66><4.466><1><Modular Habitations
+CML_HABITATIONS_1: -2481><-94.5><-948.202><57.444><1><Modular Habitations
+CML_S1: 1227><-228><643.456><-118.278><1><The Synthesizer
+CML_S2: 423><438><236.176><338.534><1><The Synthesizer
+CML_MH_ENTRANCE_2: -2151><-85.5><-625.198><5.7778><1><Modular Habitations
+CML_MH14: -1200><276><0><-166><0><Modular Habitations
+CML_MH17: -1749><10.5><-1238><-118><0><Modular Habitations
 OffScreenDen_CM: -722.913><-680.943><-982.91><-616.556><1><
-CML_MH14: -1200><273><0><-166><0><Modular Habitations
 Connection: CML_VESSELSPAWN,CML_TS1,4,8,43,20,2,0
 Connection: CML_TS1,CML_SW_1,4,17,43,6,2,0
 Connection: CML_TS6,CML_SW_8,3,8,42,12,2,0
@@ -31,6 +32,7 @@ Connection: CML_SW_4,CML_SW_5,24,2,24,67,3,1
 Connection: CML_SW_7,CML_SW_8,4,7,42,97,2,0
 Connection: CML_SW_8,CML_MH_ENTRANCE,7,12,145,10,2,0
 Connection: CML_MH_ENTRANCE,CML_MH14,11,10,52,69,2,0
-Connection: CML_THUMBNAIL,CML_MH_ENTRANCE_2,2,26,93,10,2,0
+Connection: CML_THUMBNAIL,CML_MH17,2,26,39,109,2,1
 Connection: CML_THUMBNAIL,CML_MH14,42,23,14,18,0,2
 Connection: CML_HABITATIONS_1,CML_MH_ENTRANCE_2,90,7,5,10,3,2
+Connection: CML_MH_ENTRANCE_2,CML_MH17,93,10,27,21,0,2

@@ -1,0 +1,14 @@
+Template: NONE
+DangerType: None
+WaveSpeed: 0.6703147
+WaveLength: 0.6648426
+WaveAmplitude: 0.02618595
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0.3043478
+Palette: 1250
+EffectColorA: 18
+Effects: Coldness-1-20-20, DayNight-0.904348-19.73331-132.8667, LightBurn-0.2065217-20-75, Desaturation-0.5-278-19, 
+PlacedObjects: LightSource><191.6335><1456.258><1~EffectColor1~654.9333~-224.2668~50~86.60254~0~0~None~0~1, LightSource><1184.2><1349.867><1~EffectColor1~654.9333~-224.2668~50~86.60254~0~0~None~0~1, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><822.8336><569.3489><0.5><1, OMNI><AM_ENV-LightWind.ogg><745.2356><520.653><0.5><1, OMNI><AM_IND-Fabrik02.ogg><761.1291><234.6021><0.5><1, 
+FadePalette: 10, 0.5, 0.5, 0.5

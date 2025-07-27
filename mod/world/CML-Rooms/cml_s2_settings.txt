@@ -1,0 +1,2 @@
+Template: NONE
+Palette: 1205

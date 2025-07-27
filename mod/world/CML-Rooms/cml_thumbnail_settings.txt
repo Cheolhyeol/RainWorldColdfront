@@ -1,13 +1,13 @@
 Template: NONE
 DangerType: Blizzard
-WaveSpeed: 0.2863705
-WaveLength: 0.6431853
-WaveAmplitude: 0.04999999
+WaveSpeed: 0.7214124
+WaveLength: 0.8892938
+WaveAmplitude: 1.924462E-05
 SecondWaveLength: 0.1666667
 SecondWaveAmplitude: 0
 Clouds: 0
-Palette: 29
+Palette: 1250
 EffectColorA: 9
 EffectColorB: 6
-Effects: Desaturation-1-20-20, Coldness-1-18-73, DayNight-0.4003623-19.375-127.4222, 
+Effects: Desaturation-0.5-20-20, Coldness-1-18-73, DayNight-0.4003623-19.375-127.4222, 
 PlacedObjects: HeatArea><760.8387><63.38171><86~255, NonZapCoilHeatingCoil><795.2925><114.9454><21~148~0~111.9999~-38.24447, SteamHazard><582.0309><194.8624><359.2916~451.1333~0.5~0.5~0.1032609~78.25^-0.3999939, SteamHazard><623.1944><113.8783><319.7084~447.9555~0.5~0.1956522~0.1979164~83.83331^0.577774, SteamHazard><579.3757><648.7282><362.5421~-175.8671~0.3043478~0.4021739~0.398551~-110.5833^-26.15558, LightBeam><101.1089><484.3322><26~123~112~119~150~-2~808.125~-157.8667~0.5086948~0~0~1~None~0~0, ColouredLightSource><762.6499><581.6176><108~-454.7333~FF0000~-179^-100~1~False~0~0.423913~0.3152174~After~1~100, 
