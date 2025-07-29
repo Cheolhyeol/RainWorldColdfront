@@ -1,0 +1,53 @@
+// VESSEL
+
+THE VESSEL|容器
+The Vessel|容器
+Vessel|容器
+
+Amidst the relentless cold, you walk with borrowed<LINE>light and the promise of release.|在无情的寒冷中，你带着借来的<LINE>光与解脱的希望前行。
+
+// VESSEL TUTORIAL
+
+Bioluminescent food is more nourishing for you.|生物发光的食物对你来说更有营养。
+
+Hold the grab buttom while holding a spear to energize it, consuming 1 pip of food.|握住长矛时按住抓取键可为其充能，消耗 1 格食物。
+
+// REGIONS
+
+Atmospheric Filter|大气过滤器  
+Boreal Bazaar|北境集市  
+Foundry Complex|铸造厂综合体  
+Glacial Reservoir|冰川蓄水池  
+Underground Icerails|地下冰轨  
+Megalopolis|巨型都市  
+Convergent Railways|汇合铁路  
+Snowed Conservatory|雪掩温室  
+Shadowed Refuse|阴影废墟  
+Sliver Of Straw|稻草残片  
+
+// SUBREGIONS
+
+Filter Chambers|过滤室  
+The Tradepost|贸易站  
+Frozen Overpass|冻结天桥  
+The Deepcold|极寒深处  
+Furnace Rows|熔炉排  
+Glacial Reservoir (Upper)|冰川蓄水池（上层）  
+Glacial Reservoir (Lower)|冰川蓄水池（下层）  
+The Frostline|冰霜线  
+Ramparts|防御墙  
+The Synthesizer|合成器  
+Modular Habitations|模块化居所  
+Disposals|废弃区  
+Hollow Station|空站  
+Crosspoint Tracks|交汇铁轨  
+Lower Conduits|下部管道  
+Boreal Slopes|北境坡地  
+Rustfall Caves|锈落洞穴  
+Sliver Of Straw (Cognitive Relay Anchor)|稻草残片（认知中继锚点）  
+Sliver Of Straw (Memory Conflux)|稻草残片（记忆汇流处）  
+Sliver Of Straw (Atmosphere-Chilled Duct)|稻草残片（气冷管道）  
+Sliver Of Straw (Constructive Heat Lattice)|稻草残片（构造热网）  
+The Foundation|地基  
+The Hoist|升降机  
+The Roof|屋顶

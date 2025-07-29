@@ -1,0 +1,53 @@
+// VESSEL
+
+THE VESSEL|IL RECIPIENTE  
+The Vessel|Il Recipiente  
+Vessel|Recipiente  
+
+Amidst the relentless cold, you walk with borrowed<LINE>light and the promise of release.|Nel freddo implacabile, cammini con una<LINE>luce presa in prestito e la promessa di liberazione.
+
+// VESSEL TUTORIAL
+
+Bioluminescent food is more nourishing for you.|Il cibo bioluminescente è più nutriente per te.
+
+Hold the grab buttom while holding a spear to energize it, consuming 1 pip of food.|Tieni premuto il tasto per afferrare mentre impugni una lancia per energizzarla, consumando 1 unità di cibo.
+
+// REGIONS
+
+Atmospheric Filter|Filtro Atmosferico  
+Boreal Bazaar|Bazar Boreale  
+Foundry Complex|Complesso della Fonderia  
+Glacial Reservoir|Bacino Glaciale  
+Underground Icerails|Binari Ghiacciati Sotterranei  
+Megalopolis|Megalopoli  
+Convergent Railways|Ferrovie Convergenti  
+Snowed Conservatory|Conservatorio Innevato  
+Shadowed Refuse|Rifiuti Ombrosi  
+Sliver Of Straw|Frammento di Paglia
+
+// SUBREGIONS
+
+Filter Chambers|Camere di Filtraggio  
+The Tradepost|Il Posto Commerciale  
+Frozen Overpass|Sovrappasso Ghiacciato  
+The Deepcold|Il Freddo Profondo  
+Furnace Rows|File di Forni  
+Glacial Reservoir (Upper)|Bacino Glaciale (Superiore)  
+Glacial Reservoir (Lower)|Bacino Glaciale (Inferiore)  
+The Frostline|La Linea del Gelo  
+Ramparts|Bastioni  
+The Synthesizer|Il Sintetizzatore  
+Modular Habitations|Abitazioni Modulari  
+Disposals|Smaltimenti  
+Hollow Station|Stazione Vuota  
+Crosspoint Tracks|Binari dell’Incrocio  
+Lower Conduits|Condotti Inferiori  
+Boreal Slopes|Pendii Boreali  
+Rustfall Caves|Grotte della Ruggine  
+Sliver Of Straw (Cognitive Relay Anchor)|Frammento di Paglia (Ancora di Rilancio Cognitivo)  
+Sliver Of Straw (Memory Conflux)|Frammento di Paglia (Confluenza della Memoria)  
+Sliver Of Straw (Atmosphere-Chilled Duct)|Frammento di Paglia (Condotto Raffreddato dall’Atmosfera)  
+Sliver Of Straw (Constructive Heat Lattice)|Frammento di Paglia (Griglia Termica Costruttiva)  
+The Foundation|Le Fondamenta  
+The Hoist|L’Argano  
+The Roof|Il Tetto

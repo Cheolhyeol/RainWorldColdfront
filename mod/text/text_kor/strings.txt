@@ -1,0 +1,53 @@
+// VESSEL
+
+THE VESSEL|그릇  
+The Vessel|그릇  
+Vessel|그릇  
+
+Amidst the relentless cold, you walk with borrowed<LINE>light and the promise of release.|끊임없는 추위 속, 너는<LINE>빌린 빛과 해방의 약속을 따라 걷는다.
+
+// VESSEL TUTORIAL
+
+Bioluminescent food is more nourishing for you.|발광하는 생물 식량은 너에게 더 많은 영양을 준다.
+
+Hold the grab buttom while holding a spear to energize it, consuming 1 pip of food.|창을 들고 잡기 버튼을 누르고 있으면 에너지가 주입되며, 음식 1칸을 소비한다.
+
+// REGIONS
+
+Atmospheric Filter|대기 필터  
+Boreal Bazaar|북풍 시장  
+Foundry Complex|주조 복합 단지  
+Glacial Reservoir|빙하 저장소  
+Underground Icerails|지하 얼음 철로  
+Megalopolis|거대 도시  
+Convergent Railways|합류 철도  
+Snowed Conservatory|눈 덮인 온실  
+Shadowed Refuse|그늘진 폐기장  
+Sliver Of Straw|짚의 조각
+
+// SUBREGIONS
+
+Filter Chambers|필터 챔버  
+The Tradepost|무역소  
+Frozen Overpass|얼어붙은 고가도로  
+The Deepcold|심연의 한기  
+Furnace Rows|용광로 열  
+Glacial Reservoir (Upper)|빙하 저장소 (상층)  
+Glacial Reservoir (Lower)|빙하 저장소 (하층)  
+The Frostline|서리 경계선  
+Ramparts|성벽  
+The Synthesizer|합성기  
+Modular Habitations|모듈형 거주지  
+Disposals|폐기 구역  
+Hollow Station|텅 빈 역  
+Crosspoint Tracks|교차 철로  
+Lower Conduits|하부 도관  
+Boreal Slopes|북쪽 경사  
+Rustfall Caves|녹물 동굴  
+Sliver Of Straw (Cognitive Relay Anchor)|짚의 조각 (인지 중계 앵커)  
+Sliver Of Straw (Memory Conflux)|짚의 조각 (기억 합류점)  
+Sliver Of Straw (Atmosphere-Chilled Duct)|짚의 조각 (대기 냉각 덕트)  
+Sliver Of Straw (Constructive Heat Lattice)|짚의 조각 (구조 열격자)  
+The Foundation|기초부  
+The Hoist|승강기  
+The Roof|지붕
