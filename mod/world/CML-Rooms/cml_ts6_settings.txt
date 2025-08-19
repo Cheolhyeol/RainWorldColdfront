@@ -1,0 +1,12 @@
+Template: NONE
+DangerType: Blizzard
+WaveSpeed: 0.5696151
+WaveLength: 0.7151924
+WaveAmplitude: 0.04999999
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 1205
+EffectColorA: 9
+EffectColorB: 6
+Effects: Darkness-0.25-20-20, Coldness-1-19-75, 
+FadePalette: 10, 0, 0, 0, 0

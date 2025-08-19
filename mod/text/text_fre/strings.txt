@@ -1,0 +1,53 @@
+// VESSEL
+
+THE VESSEL|LE RÉCEPTACLE  
+The Vessel|Le Réceptacle  
+Vessel|Réceptacle  
+
+Amidst the relentless cold, you walk with borrowed<LINE>light and the promise of release.|Au milieu du froid implacable, tu avances avec une<LINE>lumière empruntée et la promesse d'une délivrance.
+
+// VESSEL TUTORIAL
+
+Bioluminescent food is more nourishing for you.|La nourriture bioluminescente est plus nourrissante pour toi.
+
+Hold the grab buttom while holding a spear to energize it, consuming 1 pip of food.|Maintiens le bouton de prise en tenant une lance pour l’énergiser, ce qui consomme 1 unité de nourriture.
+
+// REGIONS
+
+Atmospheric Filter|Filtre Atmosphérique  
+Boreal Bazaar|Bazar Boréal  
+Foundry Complex|Complexe de Fonderie  
+Glacial Reservoir|Réservoir Glaciaire  
+Underground Icerails|Rails de Glace Souterrains  
+Megalopolis|Mégalopole  
+Convergent Railways|Voies Ferrées Convergentes  
+Snowed Conservatory|Conservatoire Enneigé  
+Shadowed Refuse|Déchets Ombragés  
+Sliver Of Straw|Brin de Paille
+
+// SUBREGIONS
+
+Filter Chambers|Chambres de Filtration  
+The Tradepost|Le Comptoir Commercial  
+Frozen Overpass|Viaduc Gelé  
+The Deepcold|Le Froid Profond  
+Furnace Rows|Rangées de Fours  
+Glacial Reservoir (Upper)|Réservoir Glaciaire (Supérieur)  
+Glacial Reservoir (Lower)|Réservoir Glaciaire (Inférieur)  
+The Frostline|La Ligne de Gel  
+Ramparts|Remparts  
+The Synthesizer|Le Synthétiseur  
+Modular Habitations|Habitations Modulaires  
+Disposals|Décharges  
+Hollow Station|Station Vide  
+Crosspoint Tracks|Voies de Croisement  
+Lower Conduits|Conduits Inférieurs  
+Boreal Slopes|Pentes Boréales  
+Rustfall Caves|Grottes de Rouille  
+Sliver Of Straw (Cognitive Relay Anchor)|Brin de Paille (Ancrage de Relais Cognitif)  
+Sliver Of Straw (Memory Conflux)|Brin de Paille (Confluence de Mémoire)  
+Sliver Of Straw (Atmosphere-Chilled Duct)|Brin de Paille (Conduit Refroidi par l’Atmosphère)  
+Sliver Of Straw (Constructive Heat Lattice)|Brin de Paille (Réseau de Chaleur Constructif)  
+The Foundation|La Fondation  
+The Hoist|Le Treuil  
+The Roof|Le Toit

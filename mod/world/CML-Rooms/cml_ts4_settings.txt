@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: Blizzard
+WaveSpeed: 0.3617678
+WaveLength: 0.9308839
+WaveAmplitude: 2.786592E-08
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 1205
+EffectColorA: 9
+EffectColorB: 6
+Effects: Darkness-0.25-20-20, Coldness-1-18-74, DayNight-0.9021739-17-127, 
+PlacedObjects: AirPocket><620.8029><1297.034><177~244~30~30~Y~236, HeatArea><586.3138><775.8232><113~262, NonZapCoilHeatingCoil><626.5524><831.2808><28~154~0~66~24, WaterCutoff><624.1614><1571.132><175~0~30~30~Y, 
+FadePalette: 10, 0, 0, 0

@@ -4,7 +4,7 @@
 	"version": "0.0.1a",
 	"authors": "Region development:<LINE>Cheolhyeol (Level Editing)<LINE>ChefBananex (Color palettes, Level Editing)<LINE><LINE>Slugcat programming:<LINE>NeonCityRain (Abilities)<LINE>LiebeAsano (Custom spawn)<LINE><LINE>Music:<LINE>SaykioPorko (All tracks so far)<LINE><LINE>Art:<LINE>Irritatorchallengeri (Slugcat selection menu)",
 	"description": "This mods adds a new region collection and the vessel Campaign to the game (or almost)",
-    "requirements": [ "regionkit", "slime-cubed.slugbase", "com.rainworldgame.shroudedassembly.plugin", "fisobs", "crs" ],
-    "requirements_names": [ "RegionKit", "SlugBase", "Shrouded Assembly Code", "Fisobs", "Custom Regions Support" ],
+    "requirements": [ "regionkit", "slime-cubed.slugbase", "com.rainworldgame.shroudedassembly.plugin", "fisobs", "crs", "watcher" ],
+    "requirements_names": [ "RegionKit", "SlugBase", "Shrouded Assembly Code", "Fisobs", "Custom Regions Support", "The Watcher" ],
 	"tags": [ "Regions", "Campaigns" ]
 }

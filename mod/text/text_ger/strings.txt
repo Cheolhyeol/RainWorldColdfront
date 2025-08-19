@@ -1,0 +1,53 @@
+// VESSEL
+
+THE VESSEL|DAS GEFÄSS  
+The Vessel|Das Gefäß  
+Vessel|Gefäß  
+
+Amidst the relentless cold, you walk with borrowed<LINE>light and the promise of release.|Mitten in der erbarmungslosen Kälte gehst du mit<LINE>geliehenem Licht und dem Versprechen auf Erlösung.
+
+// VESSEL TUTORIAL
+
+Bioluminescent food is more nourishing for you.|Biolumineszierende Nahrung ist nahrhafter für dich.
+
+Hold the grab buttom while holding a spear to energize it, consuming 1 pip of food.|Halte die Greiftaste gedrückt, während du einen Speer hältst, um ihn aufzuladen. Dabei wird 1 Nahrungseinheit verbraucht.
+
+// REGIONS
+
+Atmospheric Filter|Atmosphärenfilter  
+Boreal Bazaar|Borealer Basar  
+Foundry Complex|Gießereikomplex  
+Glacial Reservoir|Gletscher-Reservoir  
+Underground Icerails|Unterirdische Eisbahnen  
+Megalopolis|Megalopolis  
+Convergent Railways|Konvergierende Bahnlinien  
+Snowed Conservatory|Verschneites Konservatorium  
+Shadowed Refuse|Schattenmüll  
+Sliver Of Straw|Strohhalmfragment
+
+// SUBREGIONS
+
+Filter Chambers|Filterkammern  
+The Tradepost|Der Handelsposten  
+Frozen Overpass|Gefrorene Überführung  
+The Deepcold|Die Tiefkälte  
+Furnace Rows|Ofenreihen  
+Glacial Reservoir (Upper)|Gletscher-Reservoir (Oberer Bereich)  
+Glacial Reservoir (Lower)|Gletscher-Reservoir (Unterer Bereich)  
+The Frostline|Die Frostgrenze  
+Ramparts|Wehrmauern  
+The Synthesizer|Der Synthesizer  
+Modular Habitations|Modulare Behausungen  
+Disposals|Entsorgungsbereiche  
+Hollow Station|Leere Station  
+Crosspoint Tracks|Kreuzungsgleise  
+Lower Conduits|Untere Leitungen  
+Boreal Slopes|Boreale Hänge  
+Rustfall Caves|Rostfallhöhlen  
+Sliver Of Straw (Cognitive Relay Anchor)|Strohhalmfragment (Kognitiver Relaisanker)  
+Sliver Of Straw (Memory Conflux)|Strohhalmfragment (Gedächtnis-Knotenpunkt)  
+Sliver Of Straw (Atmosphere-Chilled Duct)|Strohhalmfragment (Atmosphärisch Gekühlter Kanal)  
+Sliver Of Straw (Constructive Heat Lattice)|Strohhalmfragment (Konstruktives Wärmenetz)  
+The Foundation|Das Fundament  
+The Hoist|Der Aufzug  
+The Roof|Das Dach
